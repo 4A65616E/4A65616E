@@ -11,11 +11,20 @@
     height: 190vh; 
     display: none;
     justify-content:stretch; 
-
-    background: 
-    linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
-    linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
-    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+```
+```crystal
+(bashx0@bash)~[~]
+$ sudo apt update
+[sudo] password for bashx0:*************
+Hit:1 http://sudo.apt.update/pub/bashx0 upgrade InRelease [30.5 kB]
+Hit:2 http://sudo.apt.update/pub/bashx0 upgrade/main amd64 Packages [18.0 MB]
+Hit:3 http://sudo.apt.update/pub/bashx0 upgrade/main amd64 Contents (deb) [40.7 MB]
+Fetched 58.7 MB in 18s (3,290 kB/s)
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+All packages are up to date.
 }
 ```
 
