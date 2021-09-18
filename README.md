@@ -11,6 +11,8 @@
     height: 190vh; 
     display: none;
     justify-content:stretch; 
+    
+    auxiliary/scanner/entreprises/ents_cybersecurity
 }
 ```
 ```crystal
